@@ -220,7 +220,7 @@
     Reset {
       display-name = "Reset";
       bindings = <
-        &none &none &none &none &none                &none &none &none &none &none     
+        &none &none &none &none &none                &none &none &none &none &none      
         &none &none &none &none &none                &none &none &none &none &none    
         &none &none &none &none &none                &none &none &none &none &none
                     &none &none &bootloader          &bootloader &none               
@@ -228,3 +228,4 @@
     };
   };
 };
+
